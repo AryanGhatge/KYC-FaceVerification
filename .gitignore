@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Uploaded image files
+uploads/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional: VSCode settings (if using)
+.vscode/
